@@ -1,6 +1,6 @@
 @echo off
 color a
-echo 新增使用者和加入群組程式 製作人:呂學易
+echo 新增使用者和加入群組程式
 set /p z=數量:
 set /p b=名稱:
 echo 記得若有空格須加引號
